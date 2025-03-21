@@ -1,0 +1,66 @@
+/* Reset default styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ddd;
+}
+
+/* Sections */
+section {
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Projects */
+.project {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 500px;
+}
+
+/* Skills */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0.5rem;
+    background-color: #f0f0f0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
