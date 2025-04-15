@@ -1,3 +1,7 @@
+
+//javascript file
+
+/*
 document.addEventListener("DOMContentLoaded", () => {
     const body = document.body;
     const toggleButton = document.createElement("button");
@@ -8,3 +12,5 @@ document.addEventListener("DOMContentLoaded", () => {
         body.classList.toggle("dark-mode");
     });
 });
+
+*/
